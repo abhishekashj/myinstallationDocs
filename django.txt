@@ -1,0 +1,34 @@
+Welcome to Python Django Tutorial for Beginners. this video is going to provide an  Introduction to Django | Getting started with Django. What is Django? Django is a high-level Python web framework thatencourages rapid development and clean, pragmatic design. Django is free and open source web applicationframework.
+
+A.Django Documentation: 
+
+https://www.djangoproject.com/
+
+B.Tools and Code Editors
+
+python
+https://www.python.org/
+
+Sqlitestudio
+https://sqlitestudio.pl/index.rvt
+
+Visual Studio Code
+https://code.visualstudio.com/
+
+C.Steps to install Django 
+
+1.pip install Django
+
+2.import django
+3.django.VERSION
+
+4.django-admin startproject "yourprojectname"
+
+5.python manage.py startapp "yourappname"
+
+6.python manage.py runserver
+
+D.Reference
+
+https://docs.djangoproject.com/en/3.0/
+https://www.djangoproject.com/start/o... 
